@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Full stack App Developer with 4+ years of experience. <br>Till date I have developed uncountable apps with amazing tech stacks and features.
+I am Full stack App Developer with experience in both Native and Cross-Platform. <br>Till date I have developed uncountable apps with amazing tech stacks and features.
 
 
 ## 🌐 Socials:
